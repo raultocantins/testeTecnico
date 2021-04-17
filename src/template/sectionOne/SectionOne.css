@@ -1,0 +1,44 @@
+.sectionOne{
+    height: 630px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+
+.describeSectionOne{
+width: 30%;
+
+margin-left: 150px;
+}
+.describeSectionOne h3{
+    font-weight: 400;
+    color: #BE9667;
+    font-style: italic;
+    font-size: 32px;
+    margin: 0px;
+}
+.describeSectionOne h1{
+    font-weight: 400;
+    color: #024B68;
+ margin: 0px;
+
+    font-size: 90px;
+}
+.describeSectionOne p{
+   margin-top: 50px;
+    font-weight: 300;
+    color: #E5E5E5;
+
+    font-size: 24px;
+}
+
+.describeSectionOne button{
+    width: 297px;
+    height: 50px;
+    background-color: #014561;
+    color: #fff;
+    font-size: 300;
+    border: none;
+    outline: none;
+}

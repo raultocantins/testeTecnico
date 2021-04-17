@@ -1,0 +1,31 @@
+.appbar{
+    height: 80px;
+    background: linear-gradient(180deg, #000000 29.73%, rgba(0, 0, 0, 0) 100%);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+.appbar .logo{
+    height: 100%;
+display: flex;
+width: 150px;
+justify-content: center;
+align-items: center;
+font-size: 15px;
+
+color: #fff;
+margin-left: 100px;
+}
+.appbar .logo h1{
+    font-weight: 500;
+    letter-spacing: 3px;
+}
+
+.appbar .links a{
+    margin-right: 30px;
+    color: #949494;
+    outline: none;
+    text-decoration: none;
+}

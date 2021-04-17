@@ -1,0 +1,46 @@
+.sectionFifth{
+    background-color:  rgba(0, 36, 50, 0.85) ;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.sectionFifth .describe{
+    width: 40%;
+}
+
+.sectionFifth .describe h1{
+color: #BE9667;
+font-size: 53px;
+font-weight: 400;
+}
+.sectionFifth .describe p{
+    color: #C4C4C4;
+    font-size: 22px;
+    font-weight: 300;
+    }
+    
+
+
+.sectionFifth .banner {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sectionFifth .banner img{
+    height: 90%;
+}
+.sectionFifth .describe button{
+    background-color: #BE9667;
+    border: none;
+    width: 330px;
+    height: 55px;
+    color: #E0E0E0;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    outline: none;
+}

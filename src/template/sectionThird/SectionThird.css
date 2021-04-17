@@ -1,0 +1,62 @@
+.sectionThird{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #EFF7F9;
+    height: 360px;
+    overflow: hidden;
+    width: 100%;
+
+}
+.sectionThird .describe{
+width: 60%;
+margin-left: 250px;
+margin-right: 100px;
+
+}
+.sectionThird .describe p:nth-child(1) {
+color: #828282;
+font-weight: 300;
+font-size: 24px;
+text-align: center;
+    }
+
+    .sectionThird .describe p:nth-child(2) {
+        color: #014561;
+        font-weight: 400;
+        font-size: 28px;
+        text-align: center;
+            }
+            .sectionThird .describe p:nth-child(3) {
+                color: #BE9667;
+                font-weight: 300;
+                font-size: 20px;
+                text-align: center;
+                    }
+
+.sectionThird .imgbanel{
+    height: 100%;
+
+    width: 450px;
+    display: flex;
+    
+   display: flex;
+
+    }
+    .sectionThird .imgbanel img:nth-child(1){      
+        height:318px;
+        position: relative;
+        z-index: 9;
+        width: 300px;
+        margin-right: -60px;
+       
+     
+       
+}
+  
+    .sectionThird .imgbanel img:nth-child(2){      
+              height: 360px;
+              width: 313px;
+              
+    }
+
